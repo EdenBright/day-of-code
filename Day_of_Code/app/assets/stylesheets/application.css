@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+body {
+    background-color: #9be7c9;
+}
+h3 {
+    font-family: "Copperplate", fantasy; font-size: 30px; color: #831C1C;
+}
+a {
+    color: #ED5A4F;}
+
+p strong {
+    border: 1px solid #831C1C;
+}
+
+img {
+    min-width: 200px;
+    max-width: 500px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #656565;
+}
